@@ -1,7 +1,7 @@
-package org.jetbrains.plugins.template.services
+package com.github.whitef326.rediskeyslotcalculator.services
 
 import com.intellij.openapi.project.Project
-import org.jetbrains.plugins.template.MyBundle
+import com.github.whitef326.rediskeyslotcalculator.MyBundle
 
 class MyProjectService(project: Project) {
 
